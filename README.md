@@ -13,19 +13,18 @@ What I do:
 * Computer simulation
 * Blockchain / AI 
 
-Please visit us:
+Please visit us @
+
 Web:
 * [jueewo ventures](https://jwvntrs.com) 
+
 LinkedIn: 
-* https://www.linkedin.com/company/jwvntrs
+* [jueewo ventures](https://www.linkedin.com/company/jwvntrs)
+* [Juergen Woeckl](https://www.linkedin.com/in/juergen-woeckl)
 
 
 
-
-
-
-
-## We love Rust & Solana
+## We love Rust | Solana | Polkadot
 
 Systems and blockchain development with Rust made easy. Create an MVP in {days, weeks, months} - secure, performant, and scalable. 
 No overhead, just developing.
