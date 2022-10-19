@@ -8,20 +8,6 @@ We are developing people-centered decision support systems for partners in vario
 We’re a full stack developing and consulting company, speaking various languages: R, Golang, Rust, Vue / Nuxt. 
 We are fluid in Blockchain (Solana, Solidity) and AI/ML solutions. 
 
-What I do:
-* Decision support systems
-* Computer simulation
-* Blockchain / AI 
-
-Please visit us @
-
-Web:
-* [jueewo ventures](https://jwvntrs.com) 
-
-LinkedIn: 
-* [jueewo ventures](https://www.linkedin.com/company/jwvntrs)
-* [Juergen Woeckl](https://www.linkedin.com/in/juergen-woeckl)
-
 
 
 ## We love Rust | Solana | Polkadot
@@ -38,3 +24,24 @@ We are currently working on a fintech and production planning system using Rust 
 ## Be an {intra / entre} *preneur.
 
 Unfold your potential and put your ideas to life. Let us help you to grow your intra- and entrepreneurial spirit. Let's design and streamline your next project. 
+
+
+## What we do:
+
+*Research Development Consulting*
+in the field of 
+* Decision support systems
+* Computer simulation
+* Blockchain / AI / ML
+* Operations management / SCM
+
+
+Please visit us @
+
+Web:
+* [jueewo ventures](https://jwvntrs.com) 
+
+LinkedIn: 
+* [jueewo ventures](https://www.linkedin.com/company/jwvntrs)
+* [Juergen Woeckl](https://www.linkedin.com/in/juergen-woeckl)
+
